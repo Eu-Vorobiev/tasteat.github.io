@@ -1,2 +1,2 @@
 # Github Page for TastEat: 
-github.com/eu-vorobiev/tasteat.github.io/
+[https://eu-vorobiev.github.io/tasteat.github.io/]
